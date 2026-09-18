@@ -1,0 +1,9 @@
+﻿overrides:
+  hono: 4.12.25
+  "brace-expansion@<1.1.18": 1.1.18
+  "js-yaml@>=4.0.0 <4.3.2": 4.3.2
+
+allowBuilds:
+  msw: true
+  sharp: true
+  unrs-resolver: true
