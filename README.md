@@ -56,7 +56,12 @@ It is designed as a clean starting point for SaaS products, admin interfaces and
 
 ## Installation
 
-Extract the project and open the folder in your terminal.
+Clone the repository and open the project folder:
+
+```bash
+git clone https://github.com/studiogridpro/saas-dashboard-starter.git
+cd saas-dashboard-starter
+```
 
 Install dependencies:
 
