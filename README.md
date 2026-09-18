@@ -222,13 +222,15 @@ Connect the interface to the services and backend architecture used by your own 
 
 ## Need the Complete Version?
 
-The full StudioGrid Pro SaaS Dashboard Kit includes additional screens, reusable components, persistent demo workflows, cross-screen state, richer datasets and a more complete SaaS product structure.
+The full StudioGrid Pro SaaS Dashboard Kit includes seven responsive dashboard pages, reusable components, light and dark modes, and a more complete product structure for SaaS interfaces.
 
-The SaaS UI Bundle also includes the Auth & Onboarding UI Kit and the Billing & Subscription UI Kit alongside the complete dashboard.
+Explore the full kit:
 
-For the complete products, visit:
+https://studiogridpro.com/products/saas-dashboard-kit
 
-https://studiogridpro.com
+Looking for dashboard, auth and billing together?
+
+https://studiogridpro.com/products/bundles/saas-ui-bundle
 
 ---
 
