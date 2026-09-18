@@ -33,7 +33,7 @@ Initial release of the StudioGrid Pro — SaaS Dashboard Starter.
 
 ### Technical Stack
 
-- Next.js 16.3.2
+- Next.js 16.3.3
 - React 19
 - TypeScript 5.7
 - Tailwind CSS 4
