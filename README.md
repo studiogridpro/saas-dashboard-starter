@@ -8,6 +8,14 @@ It is designed as a clean starting point for SaaS products, admin interfaces and
 
 > This is a frontend starter. It does not include authentication, a database, backend APIs or payment processing.
 
+## Live Preview
+
+Explore the dashboard overview:
+
+https://saas-dashboard-starter-chi.vercel.app/
+
+This free starter is intentionally focused on a single dashboard overview. Multi-page workflows and cross-screen state are part of the full StudioGrid Pro SaaS Dashboard Kit.
+
 ## Preview
 
 ![StudioGrid Pro SaaS Dashboard Starter preview](public/saas-dashboard-starter-preview.png)
