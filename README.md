@@ -248,13 +248,9 @@ https://studiogridpro.com/nextjs-frontend-sprint?utm_source=github&utm_medium=re
 
 ## License
 
-Personal and commercial use is permitted under the included `LICENSE.md`.
+MIT. See `LICENSE.md`.
 
-You may use and modify the starter inside your own projects and client projects.
-
-Redistribution, resale, republishing and distribution as another template, starter kit or downloadable source product are not permitted.
-
-Review `LICENSE.md` before using or distributing the source files.
+The premium StudioGrid Pro kits are sold separately under their own commercial license.
 
 ---
 
