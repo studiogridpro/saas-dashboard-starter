@@ -49,7 +49,7 @@ This free starter is intentionally focused on a single dashboard overview. Multi
 - React 19
 - TypeScript
 - Tailwind CSS 4
-- Base UI
+- shadcn/ui components (Base UI)
 - Recharts
 - Lucide React
 
