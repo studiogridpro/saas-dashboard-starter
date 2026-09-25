@@ -1,4 +1,4 @@
-# StudioGrid Pro — SaaS Dashboard Starter
+# SaaS Dashboard Starter by StudioGrid Pro
 
 A focused, responsive SaaS dashboard starter built with Next.js, React, TypeScript and Tailwind CSS.
 
@@ -234,11 +234,15 @@ The full StudioGrid Pro SaaS Dashboard Kit includes seven responsive dashboard p
 
 Explore the full kit:
 
-https://studiogridpro.com/products/saas-dashboard-kit
+https://studiogridpro.com/products/saas-dashboard-kit?utm_source=github&utm_medium=readme&utm_campaign=saas-dashboard-starter
 
 Looking for dashboard, auth and billing together?
 
-https://studiogridpro.com/products/bundles/saas-ui-bundle
+https://studiogridpro.com/products/bundles/saas-ui-bundle?utm_source=github&utm_medium=readme&utm_campaign=saas-dashboard-starter
+
+Need these screens connected to your own API? We build them at a fixed price:
+
+https://studiogridpro.com/nextjs-frontend-sprint?utm_source=github&utm_medium=readme&utm_campaign=saas-dashboard-starter
 
 ---
 
@@ -258,4 +262,4 @@ Review `LICENSE.md` before using or distributing the source files.
 
 Premium UI kits for modern web products built with Next.js, React, TypeScript and Tailwind CSS.
 
-https://studiogridpro.com
+https://studiogridpro.com?utm_source=github&utm_medium=readme&utm_campaign=saas-dashboard-starter
