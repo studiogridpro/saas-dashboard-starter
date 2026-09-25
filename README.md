@@ -14,11 +14,9 @@ Explore the dashboard overview:
 
 https://saas-dashboard-starter-chi.vercel.app/
 
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/studiogridpro/saas-dashboard-starter)
+
 This free starter is intentionally focused on a single dashboard overview. Multi-page workflows and cross-screen state are part of the full StudioGrid Pro SaaS Dashboard Kit.
-
-## Preview
-
-![StudioGrid Pro SaaS Dashboard Starter preview](public/saas-dashboard-starter-preview.png)
 
 ---
 
